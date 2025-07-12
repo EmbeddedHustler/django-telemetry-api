@@ -27,13 +27,7 @@ A Django-based backend API to receive and serve telemetry data (GPS, battery, or
 
 ## 🖼️ Screenshots
 
-Here are some sample dashboard screenshots
+![dashboard Sensor And Flight Map](assets/dashboard_sensorandflightpath.png "Orientation and Flight Path Image")
+![dashboard Sensor And Flight Map](assets/dashboard_battery_volt.png "Battery Voltage Image")
 
-<div style="display: flex; gap: 20px; justify-content: space-between; align-items: center;">
-
-  <img src="assets/dashboard_battery_volt.png" alt="Proteus Simulation" style="height: 300px; border-radius: 8px;" />
-
-  <img src="assets/dashboard_sensorandflightpath.png" alt="LED ON Simulation" style="height: 300px; border-radius: 8px;" />
-
-</div>
 ---
